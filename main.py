@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-jp_proxy_collector.py
-日本向けプロキシ収集・検証tool
-
-使い方の例:
-    python main.py --sources sources.txt --out all_proxies.txt --out-jp jp_proxies.txt --concurrency 80 --timeout 8
-"""
-
 import re
 import argparse
 import asyncio
