@@ -13,6 +13,7 @@ IP:PORT を収集し、日本（JP）の出口IPのみを検証・抽出する P
 ## 必要なこと
 ```bash
 sources.txtにproxy提供しているサイトURLを記載必要
+
 ## 使い方
 ```bash
 pip install -r requirements.txt
